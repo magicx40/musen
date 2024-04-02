@@ -1,0 +1,19 @@
+{
+  "name": "musen",
+  "version": "1.0.0",
+  "description": "A martial arts card game",
+  "main": "index.js",
+  "scripts": {
+    "test": "node examples/test.js"
+  },
+  "keywords": [
+    "Card Game",
+    "Roguelike"
+  ],
+  "author": "hanzongyuan@foxmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.8",
+    "inquirer": "^9.2.17"
+  }
+}
